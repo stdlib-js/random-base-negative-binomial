@@ -51,7 +51,7 @@
     "@stdlib/math-base-assert-is-nan": "^0.0.x",
     "@stdlib/random-base-gamma": "^0.0.x",
     "@stdlib/random-base-poisson": "^0.0.x",
-    "@stdlib/string-format": "^0.0.x",
+    "@stdlib/error-tools-fmtprodmsg": "^0.0.x",
     "@stdlib/types": "^0.0.x",
     "@stdlib/utils-constant-function": "^0.0.x",
     "@stdlib/utils-copy": "^0.0.x",
