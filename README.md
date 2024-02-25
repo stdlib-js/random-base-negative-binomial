@@ -42,13 +42,13 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import negativeBinomial from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-negative-binomial@deno/mod.js';
+import negativeBinomial from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-negative-binomial@v0.2.1-deno/mod.js';
 ```
 
 You can also import the following named exports from the package:
 
 ```javascript
-import { factory } from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-negative-binomial@deno/mod.js';
+import { factory } from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-negative-binomial@v0.2.1-deno/mod.js';
 ```
 
 #### negativeBinomial( r, p )
@@ -396,7 +396,7 @@ var o = rand.toJSON();
 <!-- eslint no-undef: "error" -->
 
 ```javascript
-import negativeBinomial from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-negative-binomial@deno/mod.js';
+import negativeBinomial from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-negative-binomial@v0.2.1-deno/mod.js';
 
 var seed;
 var rand;
