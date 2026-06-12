@@ -452,6 +452,7 @@ for ( i = 0; i < 100; i++ ) {
 -   <span class="package-name">[`@stdlib/random-array/negative-binomial`][@stdlib/random/array/negative-binomial]</span><span class="delimiter">: </span><span class="description">create an array containing pseudorandom numbers drawn from a negative binomial distribution.</span>
 -   <span class="package-name">[`@stdlib/random-iter/negative-binomial`][@stdlib/random/iter/negative-binomial]</span><span class="delimiter">: </span><span class="description">create an iterator for generating pseudorandom numbers drawn from a negative binomial distribution.</span>
 -   <span class="package-name">[`@stdlib/random-streams/negative-binomial`][@stdlib/random/streams/negative-binomial]</span><span class="delimiter">: </span><span class="description">create a readable stream for generating pseudorandom numbers drawn from a negative binomial distribution.</span>
+-   <span class="package-name">[`@stdlib/random-negative-binomial`][@stdlib/random/negative-binomial]</span><span class="delimiter">: </span><span class="description">generate pseudorandom numbers drawn from a negative binomial distribution.</span>
 
 </section>
 
@@ -540,6 +541,8 @@ Copyright &copy; 2016-2026. The Stdlib [Authors][stdlib-authors].
 [@stdlib/random/iter/negative-binomial]: https://github.com/stdlib-js/random-iter-negative-binomial
 
 [@stdlib/random/streams/negative-binomial]: https://github.com/stdlib-js/random-streams-negative-binomial
+
+[@stdlib/random/negative-binomial]: https://github.com/stdlib-js/random-negative-binomial
 
 <!-- </related-links> -->
 
